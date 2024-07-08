@@ -7,5 +7,5 @@ Approach:
 
 Results:
 
-Develop a dashboard app with streamlit using plotly to visualize the workers population of various industries with respect to various geographies and Analyze some Facts and Figures for the Business Problem
-ndustrial-Human-Resource-Geo-Visualization
+The dashboard app with streamlit using plotly to visualize the workers population of various industries with respect to various geographies and Analyze some Facts and Figures for the Business Problem
+industrial-Human-Resource-Geo-Visualization
